@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecommenderWebsite.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e92fd51b6d2f2b92633bc0b79810f578ce080ebc")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecommenderWebsite.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecommenderWebsite.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

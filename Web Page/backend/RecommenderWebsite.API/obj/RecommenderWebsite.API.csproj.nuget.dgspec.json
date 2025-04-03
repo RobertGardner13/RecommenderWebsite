@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite\\backend\\RecommenderWebsite.API\\RecommenderWebsite.API.csproj": {}
+    "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\RecommenderWebsite.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite\\backend\\RecommenderWebsite.API\\RecommenderWebsite.API.csproj": {
+    "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\RecommenderWebsite.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite\\backend\\RecommenderWebsite.API\\RecommenderWebsite.API.csproj",
+        "projectUniqueName": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\RecommenderWebsite.API.csproj",
         "projectName": "RecommenderWebsite.API",
-        "projectPath": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite\\backend\\RecommenderWebsite.API\\RecommenderWebsite.API.csproj",
+        "projectPath": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\RecommenderWebsite.API.csproj",
         "packagesPath": "C:\\Users\\trexo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite\\backend\\RecommenderWebsite.API\\obj\\",
+        "outputPath": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
