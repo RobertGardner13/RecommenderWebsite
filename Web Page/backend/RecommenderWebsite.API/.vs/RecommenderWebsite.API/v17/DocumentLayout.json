@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D7605128-93F4-44F1-A56C-899BF0481954}|RecommenderWebsite.API.csproj|c:\\users\\trexo\\onedrive - brigham young university\\desktop\\recommenderwebsite2\\recommenderwebsite\\web page\\backend\\recommenderwebsite.api\\data\\collaborative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7605128-93F4-44F1-A56C-899BF0481954}|RecommenderWebsite.API.csproj|solutionrelative:data\\collaborative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7605128-93F4-44F1-A56C-899BF0481954}|RecommenderWebsite.API.csproj|c:\\users\\trexo\\onedrive - brigham young university\\desktop\\recommenderwebsite2\\recommenderwebsite\\web page\\backend\\recommenderwebsite.api\\controllers\\recommendationwebsitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7605128-93F4-44F1-A56C-899BF0481954}|RecommenderWebsite.API.csproj|solutionrelative:controllers\\recommendationwebsitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7605128-93F4-44F1-A56C-899BF0481954}|RecommenderWebsite.API.csproj|c:\\users\\trexo\\onedrive - brigham young university\\desktop\\recommenderwebsite2\\recommenderwebsite\\web page\\backend\\recommenderwebsite.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7605128-93F4-44F1-A56C-899BF0481954}|RecommenderWebsite.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7605128-93F4-44F1-A56C-899BF0481954}|RecommenderWebsite.API.csproj|c:\\users\\trexo\\onedrive - brigham young university\\desktop\\recommenderwebsite2\\recommenderwebsite\\web page\\backend\\recommenderwebsite.api\\data\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7605128-93F4-44F1-A56C-899BF0481954}|RecommenderWebsite.API.csproj|solutionrelative:data\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7605128-93F4-44F1-A56C-899BF0481954}|RecommenderWebsite.API.csproj|c:\\users\\trexo\\onedrive - brigham young university\\desktop\\recommenderwebsite2\\recommenderwebsite\\web page\\backend\\recommenderwebsite.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7605128-93F4-44F1-A56C-899BF0481954}|RecommenderWebsite.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7605128-93F4-44F1-A56C-899BF0481954}|RecommenderWebsite.API.csproj|c:\\users\\trexo\\onedrive - brigham young university\\desktop\\recommenderwebsite2\\recommenderwebsite\\web page\\backend\\recommenderwebsite.api\\article_recommendations.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7605128-93F4-44F1-A56C-899BF0481954}|RecommenderWebsite.API.csproj|solutionrelative:article_recommendations.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,15 +50,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T19:42:25.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\Data\\Content.cs",
+              "RelativeDocumentMoniker": "Data\\Content.cs",
+              "ToolTip": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\Data\\Content.cs",
+              "RelativeToolTip": "Data\\Content.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:48:35.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T18:23:12.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Collaborative.cs",
+              "DocumentMoniker": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\Data\\Collaborative.cs",
+              "RelativeDocumentMoniker": "Data\\Collaborative.cs",
+              "ToolTip": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\Data\\Collaborative.cs",
+              "RelativeToolTip": "Data\\Collaborative.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:52:15.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecommendationWebsiteController.cs",
+              "DocumentMoniker": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\Controllers\\RecommendationWebsiteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecommendationWebsiteController.cs",
+              "ToolTip": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\Controllers\\RecommendationWebsiteController.cs",
+              "RelativeToolTip": "Controllers\\RecommendationWebsiteController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:59:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "article_recommendations.csv",
+              "DocumentMoniker": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\article_recommendations.csv",
+              "RelativeDocumentMoniker": "article_recommendations.csv",
+              "ToolTip": "C:\\Users\\trexo\\OneDrive - Brigham Young University\\Desktop\\RecommenderWebsite2\\RecommenderWebsite\\Web Page\\backend\\RecommenderWebsite.API\\article_recommendations.csv",
+              "RelativeToolTip": "article_recommendations.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-03T18:46:38.767Z",
               "EditorCaption": ""
             }
           ]

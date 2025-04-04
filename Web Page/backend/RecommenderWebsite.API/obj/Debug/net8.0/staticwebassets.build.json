@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "a2t623r6gZMvzEOtgmEpinP8CIYlqHSx5bUcbJtzLLs=",
+  "Source": "RecommenderWebsite.API",
+  "BasePath": "_content/RecommenderWebsite.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
