@@ -24,7 +24,11 @@ function App() {
         const rows = data
           .trim()
           .split("\n")
-          .map((row) => row.split(",").map((col) => col.trim())); // Trim all values
+          .map((row) => {
+            // Regular expression to handle commas inside quotes and split by commas outside of quotes
+            const regex = /,(?=(?:(?:[^"]*"){2})*[^"]*$)/;
+            return row.split(regex); // Split only by commas that are not inside quotes
+          });
 
         const formattedData: Record<string, string[]> = {};
         rows.slice(1).forEach((row) => {
@@ -44,12 +48,18 @@ function App() {
         const rows = data
           .trim()
           .split("\n")
-          .map((row) => row.split(",").map((col) => col.trim())); // Trim all values
+          .map((row) => {
+            // Regular expression to handle commas inside quotes and split by commas outside of quotes
+            const regex = /,(?=(?:(?:[^"]*"){2})*[^"]*$)/;
+            return row.split(regex); // Split only by commas that are not inside quotes
+          });
 
         const formattedData: Record<string, string[]> = {};
         rows.slice(1).forEach((row) => {
-          formattedData[row[0]] = row.slice(1, 6); // Store first 5 recommendations
+          const recommendations = row.slice(1).filter((item) => isNaN(Number(item))); // Only keep non-numeric values
+          formattedData[row[0]] = recommendations.slice(0, 5); // Take the first 5 article titles
         });
+        
 
         setContentData(formattedData);
       })
@@ -74,8 +84,15 @@ function App() {
   const handleSearch = (selectedID: string) => {
     setItemID(selectedID);
     setCollabRecommendations(collabData[selectedID] || []);
-    setContentRecommendations(contentData[selectedID] || []);
+  
+    // filter out any recommendation that is just a number
+    const rawContentRecs = contentData[selectedID] || [];
+    const filteredContentRecs = rawContentRecs.filter(
+      (rec) => isNaN(parseFloat(rec)) || isNaN(Number(rec))
+    );
+    setContentRecommendations(filteredContentRecs);
   };
+  
 
   return (
     <div>
